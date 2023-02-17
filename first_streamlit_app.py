@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Para bailar la bamba \nPara bailar la bamba\nPara bailar la bamba se necesita una poca de gracia')
+streamlit.title('Para bailar la bamba \n Para bailar la bamba \n Para bailar la bamba se necesita una poca de gracia')
